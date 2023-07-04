@@ -8,14 +8,6 @@ Note:
 ```bash
 npm install
 npx expo start
-
-
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
-
-Website Profiling compare to the original website:
-
-
-https://github.com/silviaphungky/crypto-web/assets/55534481/351a3873-dee3-4ae1-a2c6-781d6cad4223
-
-
 ```
+
+<img width="565" alt="Screenshot 2023-07-04 at 11 25 55" src="https://github.com/silviaphungky/crypto-apps/assets/55534481/bcc39e8d-60e5-4d2e-ad4a-0a94a2ff5fe6">
